@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(https://www.youtube.com/watch?v=RVFAyFWO4go)
+React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours
 
 ## Available Scripts
 
