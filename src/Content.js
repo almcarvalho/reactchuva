@@ -9,7 +9,7 @@ const Content = () => {
         var sorteio = Math.random();
         var int = Math.floor(sorteio * 3);
         //console.log(int);
-        setName(names[int]);
+        setName(names[int]);//
     }
 
     //shift alt down
